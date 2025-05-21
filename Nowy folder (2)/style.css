@@ -1,0 +1,51 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+#logo {
+    background-color: #FF9F79;
+    height: 270px;
+    width: 30%;
+}
+
+#lista-formularz {
+    background-color: #FF9F79;
+    color: green;
+    height: 270px;
+    width: 35%;
+    display: flex;
+}
+
+#lista {
+    flex: 1;
+}
+
+#formularz {
+    flex: 1;
+}
+
+#glowny {
+    background-color: #80CDAC;
+    height: 400px;
+    padding: 30px;
+    text-align: center;
+}
+
+footer {
+    background-color: #188256;
+    height: 150px;
+    padding: 10px;
+}
+
+a {
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid orange;
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    background-color: violet;
+}
