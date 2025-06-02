@@ -1,7 +1,7 @@
 
 var cards = ["piesek3.png", "piesek.png", "piesek4.png", "piesek4.png", "piesek5.png", "piesek2.png", "piesek.png", "piesek6.png", "piesek3.png", "piesek2.png", "piesek6.png", "piesek5.png"];
 
-var random = Math.floor(Math.random() * 1000);
+
 
 var c0 = document.getElementById('c0');
 var c1 = document.getElementById('c1');
